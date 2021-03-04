@@ -36,11 +36,12 @@ The team has access to detailed transaction records (i.e., time stamps of buying
  ![image](Figures/F2.png)
  
  ### Methodology
- Semi-parametric functional PCA;
+ Semi-parametric functional PCA; See
  
  
  ### Results
- The Figure below shows the estimations of intensity functions of stock buying (the top figure) and selling (the bottom figure) activities;
+ The Figure below shows the estimations of intensity functions of stock buying (the top figure) and selling (the bottom figure) activities; The line (in orange) is a fitted smoothed line. Three vertical dashed lines from left to right mark May 30th, 2007, September 19th, 2008, the two policy change dates.
+
  ![image](Figures/F3.png)
  
  
