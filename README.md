@@ -7,13 +7,23 @@ Introduction to the project "Semi-parametric Learning of Functional Point Proces
 
 key words: Functional PCA; multi-level analysis; stock transactions;
  
+ ## Abstrct
+ 
+Many factors can affect human activity patterns. For example, in the Stock Trading data, an investor’s trading activities may be affected by three factors, i.e., investor-related characteristics, daily market incentives and their interactions. The proposed model treats the trading times as a univariate/bivariate temporal point process with a random latent intensity function that can be decomposed into three different levels. Variations of the intensity functions both between users and across days will be studied using MFPCA.
+ 
  ## Brief Introduction to the Project
  ### Project Aims
- To propose a model to describe human activity patterns;
- 
- To develope a method to efficiently fit the proposed model;
+ To propose a model to describe human activity patterns and develope a method to efficiently fit the proposed model;
  
  To apply the model to investigate the transaction activities of stock investors;
+ 
+ In the project we wan to know:
+ 
+ How do the investor-related characteristics and daily market incentives affect the buying and selling activities of stock investors;
+ 
+ What are the interactions among the stock transactions of different days;
+ 
+ What are the activity patterns of stock-investors within one day;
  
  ### Data Description
 The team has access to detailed transaction records (i.e., time stamps of buying/selling stocks at the second level) of 1.2 million stock trading accounts from a national leading brokerage house in China from January 4th, 2007 to September 30th, 2009.
@@ -25,13 +35,11 @@ The team has access to detailed transaction records (i.e., time stamps of buying
  ![image](Figures/F2.png)
  
  ### Methodology
- Multi-level functional Poisson process model;
- 
  Semi-parametric functional PCA;
  
  
  ### Results
- The Figure below shows the estimations of intensity functions of stock buying and selling activities;
+ The Figure below shows the estimations of intensity functions of stock buying (the top figure) and selling (the bottom figure) activities;
  ![image](Figures/F3.png)
  
  
