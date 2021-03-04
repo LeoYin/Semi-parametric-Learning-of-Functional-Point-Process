@@ -31,7 +31,8 @@ The team has access to detailed transaction records (i.e., time stamps of buying
  Figure below shows the time stamps for three stock investors in a window of 30 consecutive days; The black points indicate the buying activities on the timeline and the red points indicate the selling activities on the timeline;
  ![image](Figures/F1.png)
  
- Figure below: Estimated overall trading intensity and ratios of the estimated trading intensities at the account and day levels relative to the overall trading intensity.
+ Figure below: shows the estimated overall trading intensity within a transaction day and the ratios of the estimated trading intensities at the account and day levels relative to the overall trading intensity, based on 1,000 sample accounts over 672 days. It is clear that the trading intensities vary considerably within each 12 day, between accounts, and across different days.
+ 
  ![image](Figures/F2.png)
  
  ### Methodology
