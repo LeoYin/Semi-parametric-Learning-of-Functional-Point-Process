@@ -36,7 +36,7 @@ The team has access to detailed transaction records (i.e., time stamps of buying
  ![image](Figures/F2.png)
  
  ### Methodology
- Semi-parametric functional PCA; See
+ Semi-parametric functional PCA; See [link](https://github.com/LeoYin/Semi-parametric-Learning-of-Functional-Point-Process/blob/main/Methods/Project%20aim%202.pdf).   
  
  
  ### Results
